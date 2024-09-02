@@ -1,5 +1,7 @@
 ## Hi, I'm Stephen
 
+A Data science & machine learning enthusiast an MSci in Materials Science at Cambridge. Fascinated by the potential of these tools to revolutionise finance and scientific research.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephen-fajemilusi/) 
