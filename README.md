@@ -1,6 +1,6 @@
 ## Hi, I'm Stephen
 
-A Data science & machine learning enthusiast an MSci in Materials Science at Cambridge. Fascinated by the potential of these tools to revolutionise finance and scientific research.
+A Data science & machine learning enthusiast who holds an MSci in Materials Science at Cambridge. I am Fascinated by the potential of these tools to revolutionise finance and scientific research.
 
 
 ## 🌐 Socials:
